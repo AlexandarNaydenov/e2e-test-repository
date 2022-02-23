@@ -1,0 +1,9 @@
+kind: Component
+metadata:
+  displayName: Public Github TechDocs E2E Test Component - with documentation
+  description: Component with mkdocs documentation for E2E Testing
+spec:
+  type: 
+    name: test
+  team:
+    name: DXP TechDocs

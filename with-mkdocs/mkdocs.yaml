@@ -1,3 +1,17 @@
 nav:
-  - Links: links.md
-  - Images: images.md
+  - index.md
+  - Ivan & Pesho: gogo
+  - Product:
+      - path/no-key-file.md
+      - path/no-key-file2.md
+      - Overview: index.md
+      - Domains:
+          - path/domain.md
+          - Overview: product/domains/domains-overview.md
+          - Marketplace and Ecosystem:
+              - path/Market-Global.md
+              - path/Eco.Global.md
+              - Price: ./price.md
+
+  - Using DXP:
+      - Overview: end-user/overview.md

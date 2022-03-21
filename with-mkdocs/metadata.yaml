@@ -1,7 +1,7 @@
 kind: Component
 metadata:
-  displayName: Public Github E2E repo with freestyle navigation
-  description: Public Github E2E repo with freestyle navigation
+  displayName: Public Github E2E repo with mkdocs navigation
+  description: Public Github E2E repo with mkdocs navigation
 spec:
   team:
     name: DXP TechDocs

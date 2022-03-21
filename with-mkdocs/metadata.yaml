@@ -1,0 +1,9 @@
+kind: Component
+metadata:
+  displayName: Public Github E2E repo with freestyle navigation
+  description: Public Github E2E repo with freestyle navigation
+spec:
+  team:
+    name: DXP TechDocs
+    productOwner: denis.duev@sap.com
+    technicalOwner: yoana.ivanova@sap.com
